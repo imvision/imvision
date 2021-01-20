@@ -633,9 +633,9 @@
               
                 <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
               
-                <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
               
-                <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
               
                 <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
               
@@ -865,7 +865,7 @@
                   
                   <div class="name">
                     <span>PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core</span>
-                    <span>starred 6 hours ago</span>
+                    <span>starred 8 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1061,7 +1061,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Karachi</span>
-          <span>Last updated Tue, 19 Jan 2021 23:53:29 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Wed, 20 Jan 2021 01:39:42 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
