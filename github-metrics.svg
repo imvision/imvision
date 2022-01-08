@@ -407,7 +407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PragmaticFlow/NBomber</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).</div>
@@ -510,7 +510,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2022, 17:34:49 (timezone Asia/Karachi) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 8 Jan 2022, 18:27:23 (timezone Asia/Karachi) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
