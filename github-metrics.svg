@@ -302,7 +302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SQLStreamStore/SQLStreamStore</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream Store library targeting RDBMS based implementations for .NET</div>
@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phatboyg/NewId</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sequential id generator that works across nodes with no collisions</div>
@@ -500,7 +500,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 13:25:59 (timezone Asia/Karachi) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 14:20:26 (timezone Asia/Karachi) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
