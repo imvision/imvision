@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dun-sin/anon-chat-app</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An app to help you chat in secret</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 07:13:16 (timezone Asia/Karachi) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 09:02:27 (timezone Asia/Karachi) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
