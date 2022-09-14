@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            222 Commits
+                            224 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.13664985040623" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="268.13664985040623" y="0" width="71.59232878084198" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="339.7289786312482" y="0" width="45.999148755054264" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.72812738630245" y="0" width="45.00544546399109" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="430.7335728502935" y="0" width="27.2703829350425" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.003955785336" y="0" width="1.516092284966764" height="8" fill="#dad8d8"/>
-                    <rect mask="url(#languages-bar)" x="459.52004807030283" y="0" width="0.4372644993302705" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.95731256963313" y="0" width="0.04268743036691161" height="8" fill="#d12127"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.1087782312925" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="268.1087782312925" y="0" width="71.58488707482994" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="339.6936653061224" y="0" width="45.99436734693877" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.6880326530612" y="0" width="45.04858231292517" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="430.73661496598635" y="0" width="27.267548299319728" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.0041632653061" y="0" width="1.515934693877551" height="8" fill="#dad8d8"/>
+                    <rect mask="url(#languages-bar)" x="459.52009795918366" y="0" width="0.4372190476190476" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.95731700680267" y="0" width="0.04268299319727891" height="8" fill="#d12127"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jwt-dotnet/jwt</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Jwt.Net, a JWT (JSON Web Token) implementation for .NET</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2022, 22:32:56 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Sept 2022, 23:31:57 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
