@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gigya/microdot</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microdot: An open source .NET microservices framework</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2022, 12:45:05 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Oct 2022, 13:41:16 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
