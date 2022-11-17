@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aliostad/CacheCow</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of HTTP Caching in .NET Core and 4.5.2+ for both the client and the server</div>
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remoteintech/remote-jobs</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of semi to fully remote-friendly companies (jobs) in tech.</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2022, 22:22:08 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Nov 2022, 23:27:29 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
