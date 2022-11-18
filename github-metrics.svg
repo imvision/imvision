@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linq2db/linq2db</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linq to database provider.</div>
@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aliostad/CacheCow</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of HTTP Caching in .NET Core and 4.5.2+ for both the client and the server</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2022, 19:22:09 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Nov 2022, 20:23:51 (timezone Asia/Karachi) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
