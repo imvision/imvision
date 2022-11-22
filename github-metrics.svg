@@ -296,7 +296,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andrebaltieri/Flunt</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Notifications made easy</div>
@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aliostad/CacheCow</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of HTTP Caching in .NET Core and 4.5.2+ for both the client and the server</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2022, 21:32:32 (timezone Asia/Karachi) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 22 Nov 2022, 22:22:20 (timezone Asia/Karachi) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
