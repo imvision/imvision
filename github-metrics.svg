@@ -402,7 +402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aliostad/CacheCow</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of HTTP Caching in .NET Core and 4.5.2+ for both the client and the server</div>
@@ -505,7 +505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2022, 21:28:28 (timezone Asia/Karachi) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 27 Nov 2022, 22:18:09 (timezone Asia/Karachi) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
