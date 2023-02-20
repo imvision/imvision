@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petabridge/akka-bootcamp</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-paced training course to learn Akka.NET fundamentals from scratch</div>
@@ -335,7 +335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>olifolkerd/tabulator</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive Tables and Data Grids for JavaScript</div>
@@ -491,7 +491,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2023, 20:21:14 (timezone Asia/Karachi) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Feb 2023, 21:27:53 (timezone Asia/Karachi) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
