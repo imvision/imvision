@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Avanade/Beef</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Business Entity Execution Framework (Beef) framework, and the underlying code generation, has been primarily created to support the industrialization of API development.</div>
@@ -488,7 +488,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Apr 2023, 11:21:32 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Apr 2023, 12:14:59 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
