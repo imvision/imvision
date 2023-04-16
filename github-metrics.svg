@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>canton7/RestEase</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twitter/the-algorithm</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source code for Twitter's Recommendation Algorithm</div>
@@ -494,7 +494,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2023, 23:20:40 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Apr 2023, 00:13:47 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
