@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>canton7/RestEase</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit</div>
@@ -494,7 +494,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2023, 13:20:21 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 May 2023, 14:15:33 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
