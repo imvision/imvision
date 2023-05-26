@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akkadotnet/akkadotnet-templates</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production-ready dotnet new templates for Akka.NET.</div>
@@ -491,7 +491,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 May 2023, 23:21:52 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 May 2023, 00:21:52 (timezone Asia/Karachi) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
