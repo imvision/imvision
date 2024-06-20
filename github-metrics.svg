@@ -438,7 +438,7 @@
                                         <span>starred Jul 27 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">gpt4all: run open-source LLMs anywhere</div>
+                                <div class="field description">GPT4All: Chat with Local LLMs on Any Device</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -485,7 +485,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2024, 22:16:39 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jun 2024, 23:26:29 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
