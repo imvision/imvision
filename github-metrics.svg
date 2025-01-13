@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vitejs/vite-plugin-vue2</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vite plugin for Vue 2.7</div>
@@ -485,7 +485,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2025, 22:20:05 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2025, 23:31:48 (timezone Asia/Karachi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
